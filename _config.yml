@@ -21,21 +21,21 @@ url: 'https://syberxspace.github.io'
 
 author: Syber-Space                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/resources/icon.png   # support internet resources
 
 github:
   username: SyberxSpace             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Syber_Space            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Nicholas Schwankl                  # it will shows as the copyright owner in Footer
+  email: syberxspace@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/Syber_Space      # change to your twitter homepage
+    - https://github.com/SyberxSpace       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
