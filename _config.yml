@@ -12,7 +12,7 @@ title: Syber's Space                          # the main title
 tagline: Projects, Musings, and Tips from a Maker-Teacher.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  The site of Nicholas Schwankl (Syber) - based on Chirpy/Jekyll
+  The site of Nicholas Schwankl (Syber), Maker-Teacher Extraordinaire.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://syber-space.com'
@@ -75,7 +75,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode:
 
 # boolean type, the global switch for ToC in posts.
 toc: true
