@@ -1,7 +1,7 @@
 ---
 title: Making the Most of Windows
 date: 2020-12-12 21:00:00 -0500
-categories: [Tips & Tricks, Technology]
+categories: [Tips and Tricks, Technology]
 tags: [tips, tricks, unicode, characters, input, software, windows]
 ---
 
