@@ -7,7 +7,7 @@ tags: [tips, tricks, unicode, characters, input, software, windows]
 
 ## Registry Edits
 
-I immediately make these changes on my Windows machines to set up input methods as I like them. The first edit, `EnableHexNumpad`, allows me to use `ALT` + `+####` to input Unicode values instead of just the default alt codes. The second change, `DisableSearchBoxSuggestions` prevents the Windows search bar from web searching, ensuring it always opens programs when their names are typed.
+I make these changes to my Windows registry to modify a few aspects of the OS. The first edit, `EnableHexNumpad`, allows me to use `ALT` + `+####` to input Unicode values instead of just the default alt codes. The second change, `DisableSearchBoxSuggestions`, prevents the Windows search bar from web searching.
 
 ```
 Computer
