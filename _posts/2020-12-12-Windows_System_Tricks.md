@@ -36,7 +36,13 @@ These software packages add significant improvements to the Windows experience i
 | [**STL-Thumbnail**](https://github.com/cabbagecreek/STL-thumbnail) | Allows Windows to render thumbnails on 3D models |
 | [**SuperF4**](https://stefansundin.github.io/superf4) | Allows the killing of programs instantly with Ctrl+Alt+F4 |
 
-I also find installing Ubuntu using the Windows Subsystem for Linux (WSL) to be extremely handy as someone more familiar with the linux command line than the Windows command prompt.
+I also find installing Ubuntu using the Windows Subsystem for Linux (WSL) to be extremely handy as someone more familiar with the Linux command line than the Windows command prompt.
+
+---
+
+## Symbol Input
+
+As of the Windows 10 *Fall Creator's Update* in 2018, an emoji/symbol input panel was added. This can be summoned by pressing `Win` + `.` *(Windows Key and Period)*. From this pop-up you can select emoji, emoticon, or symbols for input.
 
 ---
 
