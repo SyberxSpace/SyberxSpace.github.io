@@ -5,8 +5,6 @@ categories: [Teaching, Resources]
 tags: [canvas, code, resources]
 ---
 
-## General Structure
-
 ## Daily Calendar Post Format
 
 ---
@@ -52,3 +50,27 @@ tags: [canvas, code, resources]
 </tbody>
 </table>
 ```
+
+---
+
+## YouTube Linking
+
+Start with this URL:
+`https://www.youtube.com/embed/[Video ID]?version=3`
+
+Then add tags (place at end of URL):
+
+| &start=[seconds] | set start time |
+| &end=[seconds] | set end time |
+| &rel=0 | limit suggested videos to same channel |
+| | |
+| &autoplay=1 | automatically start video |
+| &cc_load_policy=1 | automatically enable closed captions |
+| &cc_lang_pref=en | set caption language to english |
+
+Less useful tags:
+
+| &loop=1 | loop video, must be followed by &playlist=[Video ID] (doesn't work with start or end) |
+| &iv_load_policy=3 | disable video annotations (doesn't generally affect modern videos) |
+| &modestbranding=1 | do not show YouTube logo (doesn't generally affect much) |
+| &controls=0 | disable control visibility (good to avoid hovering controls, bad for media control or fullscreen) |
